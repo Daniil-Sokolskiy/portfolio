@@ -1,0 +1,9 @@
+../Core/Src/GSM_A6_Driver_STM32F407.c:51:5:GSM_Compare_GSMData_With	8	static
+../Core/Src/GSM_A6_Driver_STM32F407.c:70:6:GSM_Send_AT_Command	8	static
+../Core/Src/GSM_A6_Driver_STM32F407.c:83:6:GSM_Receive_Call	8	static
+../Core/Src/GSM_A6_Driver_STM32F407.c:106:6:GSM_HangUp_Call	8	static
+../Core/Src/GSM_A6_Driver_STM32F407.c:120:6:GSM_Make_Call	32	static
+../Core/Src/GSM_A6_Driver_STM32F407.c:137:6:GSM_Send_SMS	64	static
+../Core/Src/GSM_A6_Driver_STM32F407.c:171:6:GSM_Receive_SMS	152	static
+../Core/Src/GSM_A6_Driver_STM32F407.c:244:6:GSM_Init	8	static
+../Core/Src/GSM_A6_Driver_STM32F407.c:274:6:DMA1_Stream5_IRQHandler	0	static
