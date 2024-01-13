@@ -97,20 +97,12 @@ void lcd (void)
 	 ST7735_DrawString(0, 0, "KOLYAN", Font_11x18, ST7735_BLACK, ST7735_RED);
 	 HAL_Delay(500);
 
-	 ST7735_FillScreen(ST7735_GREEN);
-	 ST7735_DrawString(0, 0, "PIDORS", Font_11x18, ST7735_BLACK, ST7735_GREEN);
-	 HAL_Delay(500);
-
 	 ST7735_FillScreen(ST7735_CYAN);
 	 ST7735_DrawString(0, 0, "DANIEL", Font_11x18, ST7735_BLACK, ST7735_CYAN);
 	 HAL_Delay(500);
 
 	 ST7735_FillScreen(ST7735_MAGENTA);
 	 ST7735_DrawString(0, 0, "BRYAN", Font_11x18, ST7735_BLACK, ST7735_MAGENTA);
-	 HAL_Delay(500);
-
-	 ST7735_FillScreen(ST7735_YELLOW);
-	 ST7735_DrawString(0, 0, "PIZDEC", Font_11x18, ST7735_BLACK, ST7735_YELLOW);
 	 HAL_Delay(500);
 
 	 ST7735_FillScreen(ST7735_WHITE);
